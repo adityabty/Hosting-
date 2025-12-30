@@ -1,0 +1,7 @@
+BOT_TOKEN = "YOUR_PLATFORM_BOT_TOKEN"
+
+ADMIN_IDS = [123456789]  # your telegram id here
+BASE_BOTS_DIR = "bots"
+TEMPLATE_DIR = "templates"
+
+CREDIT_COST_PER_HOUR = 1
